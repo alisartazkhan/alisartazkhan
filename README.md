@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there! 
+- 😄 My name is **Ali Sartaz Khan** and I'm a **junior** studying CS at the UofA👋
+- 🔭 I’m currently working as a Research Assistant 
+- 🌱 I’m currently learning C, Julia, AWS, etc..
+- 👯 I’m looking for Internships for Summer 2023 
+- 📫 How to reach me: alisartazkhan@gmail.com
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
