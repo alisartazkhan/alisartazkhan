@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Research Assistant and a Teaching Assistant
 - 🌱 I’m currently learning C, SQL, etc...
 - 👯 Currently looking for Internships taking place during Summer 2023 
-- 📫 How to reach me: alisartazkhan@gmail.com
+- 📫 Contact info: alisartazkhan@gmail.com
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
