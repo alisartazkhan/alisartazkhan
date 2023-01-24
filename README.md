@@ -1,7 +1,7 @@
 ### Hi there! 
 - 😄 My name is **Ali Sartaz Khan** and I'm a **junior** studying CS at the UofA👋
 - 🔭 I’m currently working as a Research Assistant and a Teaching Assistant
-- 🌱 I’m currently learning C, SQL, etc...
+- 🌱 I’m currently learning DataBase Design and Web Development
 - 👯 Currently looking for Internships taking place during Summer 2023 
 - 📫 Contact info: alisartazkhan@gmail.com
 <!--
