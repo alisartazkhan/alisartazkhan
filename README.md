@@ -2,7 +2,7 @@
 - 😄 My name is **Ali Sartaz Khan** and I'm a **junior** studying CS at the UofA👋
 - 🔭 I’m currently working as a Research Assistant and a Teaching Assistant
 - 🌱 I’m currently learning DataBase Design and Web Development
-- 👯 Currently looking for Internships taking place during Summer 2023 
+- 👯 I'm an incoming Research Fellow at Stanford University
 - 📫 Contact info: alisartazkhan@gmail.com
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
