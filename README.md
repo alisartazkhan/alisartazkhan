@@ -1,8 +1,8 @@
 ### Hi there! 
 - 😄 My name is **Ali Sartaz Khan** and I'm a **senior** studying CS at the UofA👋
-- 🔭 I’m currently working as a Research Assistant and a Teaching Assistant
+- 🔭 I’m currently working as a NLP Research Assistant and a CS Teaching Assistant
 - 🌱 I’m currently learning React, Angular, and AWS.
-- 👯 I'm an incoming Research Fellow at Stanford University for Summer '23
+- 👯 I'm a former Machine Learning Research Fellow at Stanford University for Summer '23
 - 📫 Contact info: alisartazkhan@gmail.com
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
