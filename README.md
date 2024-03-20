@@ -1,6 +1,6 @@
 ### Hi there! 
-- 😄 My name is **Ali Sartaz Khan** and I'm a **senior** studying CS at the UofA👋
 - 🌱 I'm an incoming Graduate student at Stanford University's MSCS program for Fall 2024
+- 😄 My name is **Ali Sartaz Khan** and I'm a **senior** studying CS at the UofA👋
 - 🔭 I’m currently working as a NLP Research Assistant and a CS Teaching Assistant
 - 🌱 I’m currently learning React, Angular, and AWS.
 - 👯 I'm a former Machine Learning Research Fellow at Stanford University for Summer '23
