@@ -1,9 +1,7 @@
 ### Hi there! 
 - 🌱 I'm an incoming Graduate student at Stanford University's MSCS program for Autumn 2024
-- 🔭 I’m currently working as a NLP Research Assistant and a CS Teaching Assistant
-- 🌱 I’m currently learning React, Angular, and AWS.
-- 👯 I'm a former Machine Learning Research Fellow at Stanford University for Summer '23
-- 📫 Contact info: alisartazkhan@gmail.com
+- 🔭  I'm an incoming Artificial Intelligence Intern at Keywords Studios
+- 📫 Contact info: askhan1@stanford.edu
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
