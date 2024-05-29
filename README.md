@@ -1,6 +1,5 @@
 ### Hi there! 
 - 🌱 I'm an incoming Graduate student at Stanford University's MSCS program for Autumn 2024
-- 🔭  I'm an incoming Artificial Intelligence Intern at Keywords Studios
 - 📫 Contact info: askhan1@stanford.edu
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
