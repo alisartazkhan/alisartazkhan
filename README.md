@@ -1,5 +1,6 @@
 ### Hi there! 
-- 🌱 I'm an incoming Graduate student at Stanford University's MSCS program for Autumn 2024
+- 🌱 I'm a first-year Graduate student at Stanford University's MSCS program for Autumn 2024
+- 🔭 I’m currently working as a speaker diarization researcher at the EduNLP (https://www.dorademszky.com/people) lab
 - 📫 Contact info: askhan1@stanford.edu
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
