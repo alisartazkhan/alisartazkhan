@@ -1,5 +1,5 @@
 ### Hi there! 
-- 🌱 I'm a first-year Graduate student at Stanford University's MSCS program for Autumn 2024
+- 🌱 I'm a first-year Graduate student at Stanford University's MSCS program
 - 🔭 I’m currently working as a speaker diarization researcher at the [EduNLP Lab](https://www.dorademszky.com/people)
 - 📫 Contact info: askhan1@stanford.edu
 <!--
