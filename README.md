@@ -2,7 +2,7 @@
 - 🌱 I'm a second-year MSCS student at Stanford University
 - 🔭 I’m currently working as:
   *  A 3D Multimodal Conversational AI researcher at the [STAI Lab](https://stai.stanford.edu)
-  *  A Speech ML researcher at [SPOGLab](https://spoglab.stanford.edu)
+  *  A Speech ML researcher at [SPOG Lab](https://spoglab.stanford.edu)
 - 📫 Contact info: askhan1@stanford.edu
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
