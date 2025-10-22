@@ -1,6 +1,8 @@
 ### Hi there! 
-- 🌱 I'm a first-year MSCS student at Stanford University
-- 🔭 I’m currently working as a speaker diarization researcher at the [EduNLP Lab](https://www.dorademszky.com/people)
+- 🌱 I'm a second-year MSCS student at Stanford University
+- 🔭 I’m currently working as:
+  *  A 3D Multimodal Conversational AI researcher at the [STAI Lab](https://stai.stanford.edu)
+  *  A Speech ML researcher at [SPOGLab](https://spoglab.stanford.edu) focusing on the relationship between children speech and early indicators of deafness
 - 📫 Contact info: askhan1@stanford.edu
 <!--
 **alisartazkhan/alisartazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
